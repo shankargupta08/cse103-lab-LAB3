@@ -7,17 +7,19 @@
 
 ## Overview
 
-This repository contains lab work for **LAB 3** of the Computer Fundamentals & Career Pathways (CSE103) course at **K.R. Mangalam University**, Gurugram.
+This repository contains lab work for **LAB 3** of the
+Computer Fundamentals & Career Pathways (CSE103) course at
+**K.R. Mangalam University**, Gurugram.
 
 ## Repository Structure
 
 ```text
 cse103-lab-LAB3/
-+-- README.md
-+-- CHANGELOG.md
-+-- MARKDOWN_GUIDE.md
-+-- main.py
-+-- .gitignore
+├── README.md
+├── MARKDOWN_GUIDE.md
+├── CHANGELOG.md
+├── main.py
+└── .gitignore
 ```
 
 ## Skills Demonstrated
@@ -34,7 +36,9 @@ cse103-lab-LAB3/
 
 ```bash
 git clone https://github.com/shankargupta08/cse103-lab-LAB3.git
+
 cd cse103-lab-LAB3
+
 python3 main.py
 ```
 
@@ -42,16 +46,12 @@ python3 main.py
 
 - Configured Git identity and initialised local repositories
 - Created meaningful commits
-- Pushed and pulled changes with a GitHub remote
+- Pushed and pulled changes using GitHub
 - Authored structured Markdown documentation
+- Learned Markdown formatting and syntax
 
 ## References
 
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - [GitHub Skills](https://skills.github.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
-
-# My First Repository
-
-## Description
-CSE103 lab repository - LAB 3.
